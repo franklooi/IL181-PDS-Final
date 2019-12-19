@@ -13,5 +13,7 @@ The scope of this article is on model selection: we are trying to find the model
 
 ## Results
 
+![Predictions](https://cdn-images-1.medium.com/max/1600/1*HemRMDETMRV6dP8mZuS5eA.png)
+
 ![Model Results](https://cdn-images-1.medium.com/max/1600/1*iPkjd2iPIVxLzPjFeH6RjQ.png)
 
