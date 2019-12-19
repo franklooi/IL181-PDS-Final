@@ -18,4 +18,4 @@ Rossmann is a chain of pharmacies in Europe, selling items from personal care to
 Presence of Competition does not affect Sales while Traffic and Promotion does
 ![Correlation matrix](https://drive.google.com/uc?export=view&id=1MVuqDFNaDEcPOcnYD0vvP9yRc6zSSEvT)
 
-![Promotion improve AOV](https://drive.google.com/uc?export=view&id=1LJUfaXjpiOhPj_sACUR94TGYMx1AjnHG/view?usp=sharing)
+![Promotion improve AOV](https://drive.google.com/uc?export=view&id=1LJUfaXjpiOhPj_sACUR94TGYMx1AjnHG)
