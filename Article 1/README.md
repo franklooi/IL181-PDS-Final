@@ -1,6 +1,6 @@
 # A (simple) Neural Network that beats Random Forest - Predicting Bikesharing Demand
 
-Link to article: https://medium.com/@frank_66806/a-simple-neural-network-that-beats-random-forest-predicting-bikesharing-demand-8e83b117ea11
+**Link to article:** https://medium.com/@frank_66806/a-simple-neural-network-that-beats-random-forest-predicting-bikesharing-demand-8e83b117ea11
 
 In this article, we will try to forecast the demand for bikes in a Bike Sharing program in D.C. The program has 2 years' worth of tabulated data and 17,379 rows, where each row represents an hour elapsed, some explanatory factors (e.g. weather, holiday) and how many bikes were rented within that hour.
 
