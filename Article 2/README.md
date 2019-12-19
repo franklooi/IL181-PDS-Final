@@ -16,4 +16,4 @@ Rossmann is a chain of pharmacies in Europe, selling items from personal care to
 
 ## Results
 
-![Correlation matrix](https://drive.google.com/a/minerva.kgi.edu/file/d/1MVuqDFNaDEcPOcnYD0vvP9yRc6zSSEvT/view?usp=drive_open&usp=embed_googleplus)
+![Correlation matrix](https://drive.google.com/uc?export=view&id=1MVuqDFNaDEcPOcnYD0vvP9yRc6zSSEvT)
